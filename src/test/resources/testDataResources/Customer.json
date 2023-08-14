@@ -1,0 +1,28 @@
+[
+{
+"firstName": "Japinder",
+"lastName": "Kaur",
+"address": {
+		"country":"India",
+		"streetAddress": "52 HummingBird Crt",
+		"city": "Brampton",
+		"state":"Delhi",
+		"postalCode":"L6Y3N6"
+		},
+"phoneNumber" : "2898851819",
+"emailAddress" : "japinder.kaur7@gmail.com"
+},
+{
+"firstName": "Amandeep",
+"lastName": "Singh",
+"address": {
+		"country":"India",
+		"streetAddress": "52 HummingBird Crt",
+		"city": "Jalandhar",
+		"state":"Punjab",
+		"postalCode":"123456"
+		},
+"phoneNumber" : "9999999999",
+"emailAddress" : "amansingh@gmail.com"
+}
+]
